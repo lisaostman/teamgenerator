@@ -1,0 +1,25 @@
+.pinkbkg {
+    background-color: black;
+    border-bottom: darkblue 1px solid;
+    text-shadow: 1px 1px rgb(120, 120, 201);
+    color: white;
+}
+
+.forecastbox {
+    background-color: rgb(156, 192, 216);
+    border-radius: 4px;
+    text-align: center;
+    margin: 5px 0px 10px 0px;
+    padding: 10px 10px 10px 10px;
+}
+
+.navigation {
+    border-radius: 3px;
+    color: grey;
+    z-index: 2;
+}
+
+.card-body {
+    background-color: lightgrey;
+    margin-top: 5px;
+}
