@@ -9,7 +9,7 @@ This code allows you to use node.js in order to create a portfolio html page for
  * fs is utilised to generate the html for the file that display the entire team
  
 ## What Does it look like?
-![Image](giphy.gif)
+![Image](https://github.com/lisaostman/teamgenerator/blob/master/giphy)
 
 
 
